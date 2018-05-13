@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  starts: 1
+  country: MyString
+  color: MyString
+  grapes: MyString
+  year_made: 1
+  region: MyString
+  url: MyString
+  string: MyString
+  images: MyString
+
+two:
+  name: MyString
+  starts: 1
+  country: MyString
+  color: MyString
+  grapes: MyString
+  year_made: 1
+  region: MyString
+  url: MyString
+  string: MyString
+  images: MyString
